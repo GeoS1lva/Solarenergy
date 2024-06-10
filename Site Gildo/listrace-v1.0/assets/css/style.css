@@ -547,7 +547,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #FF8030;}
     font-weight: 500;
     margin-right: 10px;
 }
-.explore-price {color: #f63138;}
+.explore-price {color: #FF8030;}
 .explore-price-box {
     display: inline-block;
     padding: 0 10px;
@@ -569,7 +569,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #FF8030;}
     margin-top: 20px;
 }
 .close-btn {
-    color: #f63138;
+    color: #FF8030;
     text-transform: capitalize;
 }
 .close-btn.open-btn {color: #00c437;}
@@ -580,7 +580,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #FF8030;}
     margin-left: 23px;
     color: #767f86;
 }
-.explore-map-icon a svg:hover{color: #f63138;}
+.explore-map-icon a svg:hover{color: #FF8030;}
 .single-explore-txt.bg-theme-2 .explore-map-icon a svg:hover{color: #00c437;}
 .single-explore-item:hover{box-shadow: 0 10px 20px rgba(21,19,19,.2);}
 
@@ -932,7 +932,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #FF8030;}
 	z-index: 2;
 }
 #scroll-Top  .return-to-top:hover {
-    background:#f43032;
+    background:#FF8030;
 	border:1px solid #FF8030;
 }
 
